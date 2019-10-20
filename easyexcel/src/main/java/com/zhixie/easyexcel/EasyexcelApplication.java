@@ -1,13 +1,13 @@
-package com.zhixie.factory;
+package com.zhixie.easyexcel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FactoryApplication {
+public class EasyexcelApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FactoryApplication.class, args);
+        SpringApplication.run(EasyexcelApplication.class, args);
     }
 
 }
